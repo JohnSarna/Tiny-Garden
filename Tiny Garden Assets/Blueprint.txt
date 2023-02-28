@@ -1,0 +1,32 @@
+			  Tiny Garden Blueprint
+
+------------------------------------------------------
+
+You are the temporary caretaker of a tiny garden, only until the owner returns from a far away sea-faring journey.
+Everything is going as expected until you notice that the vegitation seem to have posessed a mind of their own. Almost as if they are sentient.
+You begin to understand them more and more as the weeks go by. Befriending each and every seed.
+Until you realize that you are becoming overwhelmed by their upkeep and that the only way to maintain this tiny haven is to embrace what has become a jungle of your creation.
+
+Having mastered the art of gardening and now posessing some fairly green-stained fingers, you recieve news from the owner that he will be gone longer than expected.
+This isn't a problem since your passion for gardening has grown to become more than just a paycheck.
+On the last day of your stay, you recieve a postcard from the owner-
+
+	Greetings from Tanzania!
+		I am writing to inform you of my whereabouts.
+	My expedition has extended longer than I originally planned
+	and I apologize for any inconvinience that this has created for you.
+	I do hope that my garden is thriving under your surveilence and upkeep!
+	If perhaps the surroundings are becoming too bland day-to-day,
+	I give you every permission to modify the looks my garden to your liking.
+	Hopefully I will be able to return home once the weather has cleared up.
+	I do wish to return home soon, but every captain I talk to won't stop
+	going on and on about the dangers of the sea as of late.
+		Best wishes and happy watering,
+		Stanley
+
+------------------------------------------------------
+
+Mechanics:
+
+	who knows, man
+	
